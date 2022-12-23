@@ -1,0 +1,292 @@
+.hey{
+    margin: 95px;
+
+}
+.hey5{
+    margin: 0px 40px;
+}
+.hey8{
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    
+
+    
+}
+.hey6{
+    margin: 0px 50px;
+    font-size: 30px;
+}
+.hey3{
+    margin:-51px 32px;
+}
+
+header{
+    background-image: url('nike2.jpg');
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position:right;
+background-color:yellow;
+border: 1px solid white;
+height: 100vh;
+
+}
+.img1{
+    height: 664px;
+    width:50%;
+    margin-left: 400px;
+
+}
+
+.tea{
+    font-size: 40px;
+    margin:20px 180px;
+}
+.cup{
+    font-weight: bold;
+}
+img.hiee{
+    border-radius: 30px;
+}
+ .universites{
+    color: red;
+    display: flex;
+    font-weight: bold;
+}
+.started{
+    display: flex;
+    margin: 5px;
+}
+.start{
+    margin:0px 10px;
+    font-weight:lighter;
+}
+.start1{
+text-decoration: none;
+font-size:15px;
+color:silver;
+}
+.start3{
+    margin:0px 10px;
+    font-weight:lighter;
+    }
+    .start4{
+        text-decoration: none;
+font-size:15px;
+color:silver;
+    }
+.start5{
+     font-weight:lighter;
+    }
+.start6{
+    text-decoration: none;
+font-size:15px;
+color:silver;
+    }
+    .smart1{
+        display: flex;
+
+        
+    }
+    .smart{
+        margin-right: 20px;
+        color: silver;
+    }
+    .smart2{
+        list-style: none;
+        color: silver;
+    }
+    .England{
+        border:1px solid silver;
+        width: 200px;
+        text-align: center;
+        margin-left:100px;
+        
+    }
+    .class3{
+        margin:386px 239px;
+    }
+    .class1{
+    margin:10px 40px;
+    }
+    .area4{
+        border: 1px solid;
+       width: 845px;
+       height:40px;
+       border-top-right-radius: 30px;
+       border-bottom-right-radius: 30px;
+       background-color: antiquewhite;
+
+    }
+    .areas1{
+        margin:0px 100px;
+    }
+    .areas2{
+        margin:0px 40px;
+        border: 1px solid aliceblue;
+        background-color: yellow;
+    }
+    .area1{
+        
+       display: flex;
+       justify-content:center;
+       align-items: center;
+       list-style: none;
+       text-align: center;
+    padding: 6px;
+    
+    }
+    .area2{
+        margin-left:-20px;
+    }
+    .bar{
+        margin-left:  50px;
+    }
+    .area{
+        margin-left: 50px;
+    }
+    .chicago{
+    display: flex;
+
+    }
+    .hate{
+        border: 1px solid;
+        background-color: crimson;
+        width: 32px;
+        height: 32px;
+        border-radius: 25px;
+font-weight: bold;
+color: white;
+text-align: center;
+
+
+    }
+    .iets{
+        font-size: 13px;
+        margin: 3px;
+    }
+    .illions{
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .started1{
+        display: flex;
+    margin: 5px;
+    }
+    .smart3{
+        display: flex;
+    }
+    .start7{
+        margin:0px 10px;
+    font-weight:lighter;
+    }
+    .smart4{
+        margin-right: 20px;
+        color: silver;
+    }
+    .smart5{
+        list-style: none;
+        color: silver;
+    }
+    .canada{
+        border:1px solid silver;
+        width: 200px;
+        text-align: center;
+        margin-left:100px;
+    }
+    .CELEVELAND{
+        color: darkgreen;
+    }
+    .south{
+        font-size:13px;
+    }
+    .corolia{
+        font-size: 18px;
+        color: brown;
+    }
+    .country{
+        display: flex;
+        margin-left: 80px;
+    
+    }
+    .portugal{
+        border:1px solid silver;
+        width: 200px;
+        text-align: center;
+        margin-left:100px;
+    }
+    .Africa{
+        border:1px solid silver;
+        width: 200px;
+        text-align: center;
+        margin-left: 100px;
+    }
+    
+    .services{
+     margin:20px 120px; 
+     font-size: 35px; 
+
+    }
+    .our{
+        font-size: 40px;
+        font-weight: bold;
+        margin-left:15px;
+    }
+    .dhl{
+        border: 1px solid silver;
+        width:265px;
+        height: 270px;
+        margin: 30px 50px;
+    }
+    .student{
+        display: flex;
+        justify-content: center;
+align-items: center;
+text-align: center;
+    }
+    .use{
+        border: 1px solid aliceblue;
+        background-color: yellow;
+        font-weight: bold;
+        width:120px;
+        margin: 55px 20px;
+    }
+    .used{
+        border: 1px solid yellow;
+         font-weight: bold;
+        width:120px;
+        margin: 55px 20px;
+    }
+    .counter{
+        font-weight: bold;
+        margin: 20px 30px;;
+    }
+    .purnima{
+        display: flex;
+        border: 1px solid silver;
+        width: 266px;
+        height: 107px;;
+        margin: 50px 64px;
+        
+         }
+         .student4{
+            display: flex;
+
+         }
+         .student3{
+            font-weight: bold;
+            margin: 10px 20px;
+    }
+         .Studentss{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+         }
+         .meet{
+            font-size: 27px;
+            margin: 20px 250px;
+         }
+         .what{
+            font-weight: bold;
+            margin-left: 20px;
+         }
